@@ -1,6 +1,6 @@
 
 
-# Taxi Driver Identification using Deep Learning  
+# Track2ID: Time-Series Driver Recognition Using Deep Learning 
 
 ## Introduction  
 This project addresses a **sequence classification problem** using deep learning models to predict **taxi driver identities** based on their **daily driving trajectories**. The dataset consists of **six months of GPS trajectory data** for five drivers, capturing both **spatial and temporal** driving patterns. The goal is to classify an input trajectory sequence to its corresponding driver using **deep learning models**.  
